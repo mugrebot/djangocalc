@@ -17,8 +17,6 @@ from there we should be good to go!
 
 # we will run the following commands: 
 
-python manage.py makemigrations
-python manage.py migrate
 python manage.py runserver
 
 Then we can visit the site running at - http://127.0.0.1:8000
